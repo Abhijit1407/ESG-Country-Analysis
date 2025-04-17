@@ -111,7 +111,7 @@ esg-country-analysis/
 │   └── esg_country_visualizations.pbix
 │   # Null & stats snapshots, Power BI file with ESG visualizations
 │
-├── docs/
+├── report/
 │   └── ESG_Country_Analysis_Report.pdf
 │   # Final project report with insights and interpretations
 ```
