@@ -90,8 +90,6 @@ Applied **time-series forecasting** using `National accounts base year` as tempo
 
 ## 🗂️ Project Structure
 
-## 📁 Project Structure
-
 ```
 esg-country-analysis/
 │
