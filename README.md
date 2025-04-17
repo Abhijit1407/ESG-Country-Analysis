@@ -90,21 +90,28 @@ Applied **time-series forecasting** using `National accounts base year` as tempo
 
 ## 🗂️ Project Structure
 
-ESG-Country-Analysis/ 
-│ 
-├── data/ 
-│ ├── ESGCountry.csv 
-│ └── cleaned_normalized_ESGCountry.csv 
-│ 
-├── scripts/ 
-│ └── esg_cleaning_script.py 
-│ ├── visuals/ 
-│ 
-├── null_summary.png 
-│ ├── descriptive_stats.png 
-│ └── esg_country_visualizations.pbix 
-│ 
-├── docs/ 
-│ └── Final_Project_Paper_Abhijit.pdf 
-|
-│ └── README.md
+## 📁 Project Structure
+
+esg-country-analysis/
+│
+├── README.md
+│   # This file
+│
+├── data/
+│   ├── ESGCountry.csv
+│   └── cleaned_normalized_ESGCountry.csv
+│   # Raw and cleaned ESG datasets
+│
+├── scripts/
+│   └── esg_cleaning_script.py
+│   # Python script used for data cleaning, preprocessing, and descriptive stats
+│
+├── visuals/
+│   ├── null_summary.png
+│   ├── descriptive_stats.png
+│   └── esg_country_visualizations.pbix
+│   # Null & stats snapshots, Power BI file with ESG visualizations
+│
+├── docs/
+│   └── Final_Project_Paper_Abhijit.pdf
+│   # Final project report with insights and interpretations
