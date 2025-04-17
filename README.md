@@ -92,6 +92,7 @@ Applied **time-series forecasting** using `National accounts base year` as tempo
 
 ## 📁 Project Structure
 
+```
 esg-country-analysis/
 │
 ├── README.md
@@ -115,3 +116,4 @@ esg-country-analysis/
 ├── docs/
 │   └── Final_Project_Paper_Abhijit.pdf
 │   # Final project report with insights and interpretations
+```
