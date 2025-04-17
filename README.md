@@ -112,6 +112,6 @@ esg-country-analysis/
 │   # Null & stats snapshots, Power BI file with ESG visualizations
 │
 ├── docs/
-│   └── Final_Project_Paper_Abhijit.pdf
+│   └── ESG_Country_Analysis_Report.pdf
 │   # Final project report with insights and interpretations
 ```
